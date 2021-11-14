@@ -1,0 +1,17 @@
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.exe
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.deps.json
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.runtimeconfig.json
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.runtimeconfig.dev.json
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.dll
+E:\gameapp\Carogame\Carogame\bin\Debug\netcoreapp3.1\Carogame.pdb
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.Form1.resources
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.csproj.GenerateResource.cache
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.GeneratedMSBuildEditorConfig.editorconfig
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.AssemblyInfoInputs.cache
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.AssemblyInfo.cs
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.csproj.CoreCompileInputs.cache
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.dll
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.pdb
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.genruntimeconfig.cache
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.csproj.AssemblyReference.cache
+E:\gameapp\Carogame\Carogame\obj\Debug\netcoreapp3.1\Carogame.Properties.Resources.resources
